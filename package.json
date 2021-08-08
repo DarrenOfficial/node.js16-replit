@@ -1,0 +1,10 @@
+{
+  "name": "i-cookies-16",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "DarrenOfficial",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
